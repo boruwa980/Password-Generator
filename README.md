@@ -1,2 +1,2 @@
 # Password-Generator
-simple program generating passwords
+Simple program generating passwords
